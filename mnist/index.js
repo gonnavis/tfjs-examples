@@ -268,6 +268,7 @@ function createModel() {
 let data;
 async function load() {
   data = new MnistData();
+  window.data = data
   await data.load();
 }
 
