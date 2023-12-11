@@ -9,7 +9,7 @@
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
   "[javascript]": {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": false
   },
   "clang-format.style": "Google",
   "files.insertFinalNewline": true,
